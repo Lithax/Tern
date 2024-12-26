@@ -102,7 +102,7 @@ tern --dcom file1.com
 3. **Verify Mono File Integrity**  
    Verify the hashes of files stored in a mono file:  
    ```bash
-   tern --mono -verify mono_file.tern
+   tern --mono -verify mykey mono_file.tern
    ```  
 
 ---
