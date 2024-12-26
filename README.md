@@ -115,7 +115,7 @@ Detailed documentation is available in the [Wiki](https://github.com/Lithax/tern
 
 ## 📋 License  
 
-This project is licensed under the GPL 3.0 License. See the [LICENSE](LICENSE) file for more details.  
+This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for more details.  
 
 ---
 
