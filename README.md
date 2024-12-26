@@ -62,18 +62,8 @@ Encrypt a file using a key:
 tern --enc mykey file1.txt
 ```  
 
-Copy & Paste:  
-```bash
-tern --enc mykey file1.txt
-```  
-
 ### 🔓 Decrypt Files  
 Decrypt an encrypted file using a key:  
-```bash
-tern --denc mykey file1.enc
-```  
-
-Copy & Paste:  
 ```bash
 tern --denc mykey file1.enc
 ```  
@@ -84,18 +74,8 @@ Compress a file:
 tern --com file1.txt
 ```  
 
-Copy & Paste:  
-```bash
-tern --com file1.txt
-```  
-
 ### 📤 Decompress Files  
 Decompress a compressed file:  
-```bash
-tern --dcom file1.com
-```  
-
-Copy & Paste:  
 ```bash
 tern --dcom file1.com
 ```  
@@ -119,18 +99,8 @@ tern --dcom file1.com
    tern --mono -out mykey mono_file.tern
    ```  
 
-   Copy & Paste:  
-   ```bash
-   tern --mono -out mykey mono_file.tern
-   ```  
-
 3. **Verify Mono File Integrity**  
    Verify the hashes of files stored in a mono file:  
-   ```bash
-   tern --mono -verify mono_file.tern
-   ```  
-
-   Copy & Paste:  
    ```bash
    tern --mono -verify mono_file.tern
    ```  
