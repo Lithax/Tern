@@ -27,7 +27,7 @@ jre_included.zip -> has a JRE included, but is large in file size (Adoptium Java
 
 Use the env.bat file to add Tern to your systemenviroment variables
 
-Build or download the executable (instructions in the repository).  
+Build the executable (instructions in the readme of the distros).  
 
 ---
 
