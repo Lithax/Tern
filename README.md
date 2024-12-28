@@ -8,8 +8,9 @@
 - **Compress/Decompress Files**: Save storage space while preserving file integrity.  
 - **Monofile Operations**: Combine, compress, and encrypt multiple files into a single mono file and easily reverse the process.  
 - **Direct Processing (`-nocopy`)**: Avoid creating additional copies while processing files.  
-- **Hash Verification**: Ensure the integrity of your files in a monofile.  
-- Lightweight, fast, and easy-to-use interface.  
+- **Hash Verification**: Ensure the integrity of your files in a monofile.
+- **Wildcard Support:** Support for bash-wildcards like *, file* *.txt etc
+- **Ease of Use:** Lightweight, fast, and easy-to-use interface.  
 
 ---
 
