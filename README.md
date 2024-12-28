@@ -15,11 +15,16 @@
 
 ## 🛠️ Installation  
 
-Clone the repository:  
+# Clone the repository:  
 ```bash
 git clone https://github.com/Lithax/tern.git
 cd tern
 ```
+# Download Distro:
+basic.zip -> Needs java 17 or higher locally installed to run
+jre_included.zip -> has a JRE included, but is large in file size (Adoptium Java SE 23 minimal JRE)
+
+Use the env.bat file to add Tern to your systemenviroment variables
 
 Build or download the executable (instructions in the repository).  
 
